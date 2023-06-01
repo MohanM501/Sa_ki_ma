@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "username": "fs",
+      "email": "fsff",
+      "password": "f",
+      "id": 1
+    },
+    {
+      "username": "fs",
+      "email": "fssss",
+      "password": "ffs",
+      "doctor": "on",
+      "id": 2
+    },
+    {
+      "username": "moh",
+      "email": "fssss@mgoh",
+      "password": "ffsfs",
+      "doctor": "on",
+      "id": 3
+    },
+    {
+      "username": "mohabaf",
+      "email": "fssss@mgohsfs",
+      "password": "ffsfs",
+      "doctor": "on",
+      "id": 4
+    }
+  ]
+}

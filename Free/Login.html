@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./Styles/Login.css"/>
+</head>
+<body>
+    <div id="Navbar">
+        <button onclick="callLogin()">Login</button>
+        <button onclick="callFreelancers()">Freelancers</button>
+        <button onclick="callReports()">Reports</button>
+    </div>
+    <h2>Login</h2>
+    <div>
+        <input oninput="handleChange()" name="username" type="string" placeholder="Enter username"/>
+        <br/>
+        <input oninput="handleChange()" name="password" type="password" placeholder="Enter password"/>
+        <button onclick="handleClick()">Login</button>
+    </div>
+</body>
+<script src="./Scripts/Login.js"></script>
+</html>
