@@ -19,6 +19,9 @@ const reducer=(state=initialState,action)=>{
         case Types.POST_AUTH_SUCCESS:
             return {...state,isLoading:false,isAuth:true}
         
+        case Types.POST_SIGNUP_SUCCESS:
+            return {...state,isLoading:false}
+        
         default:
             return state;
     }

@@ -1,5 +1,100 @@
 {
-    "users":[
-        
-    ]
+  "users": [
+    {
+      "username": "gg",
+      "avatar": "C:\\fakepath\\1.jpeg",
+      "email": "mohan@gmail",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "fah",
+      "avatar": "C:\\fakepath\\1.jpeg",
+      "email": "mohan@gmail",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "fafs",
+      "email": "fljf@gmai",
+      "avatar": "C:\\fakepath\\1.jpeg",
+      "password": "24",
+      "id": 3
+    },
+    {
+      "username": "fsf",
+      "avatar": "C:\\fakepath\\1mg.png",
+      "email": "fsfs@gm",
+      "password": "sfs",
+      "id": 4
+    },
+    {
+      "username": "fsf",
+      "avatar": "C:\\fakepath\\1mg.png",
+      "email": "sfsfs@Gmaf",
+      "password": "ss",
+      "id": 5
+    },
+    {
+      "username": "sfs",
+      "avatar": "C:\\fakepath\\1MG_Admin-Panel.JPG",
+      "email": "fsffs@gm",
+      "password": "s",
+      "id": 6
+    },
+    {
+      "username": "fsf",
+      "avatar": "C:\\fakepath\\1MG_Admin-Panel.JPG",
+      "email": "fsfs@Gm",
+      "password": "s",
+      "id": 7
+    },
+    {
+      "username": "gg",
+      "avatar": "C:\\fakepath\\1MG_Admin-Panel.JPG",
+      "email": "mohan@gmail",
+      "password": "12",
+      "id": 8
+    },
+    {
+      "username": "gg",
+      "email": "mohan@gmail",
+      "password": "f",
+      "id": 9
+    },
+    {
+      "username": "gg",
+      "avatar": "C:\\fakepath\\1mg.png",
+      "email": "mohan@gmail",
+      "password": "sss",
+      "id": 10
+    },
+    {
+      "username": "fs",
+      "avatar": "C:\\fakepath\\1mg.png",
+      "email": "sgsg@mg",
+      "password": "fs",
+      "id": 11
+    },
+    {
+      "username": "gg",
+      "avatar": "C:\\fakepath\\1.jpeg",
+      "email": "mohan@gmail.com",
+      "password": "12",
+      "id": 12
+    },
+    {
+      "username": "gg",
+      "avatar": "C:\\fakepath\\1.jpeg",
+      "email": "mohan@gmail",
+      "password": "12",
+      "id": 13
+    },
+    {
+      "username": "gg",
+      "email": "mohan@gmail",
+      "password": "fs",
+      "id": 14
+    }
+  ]
 }
