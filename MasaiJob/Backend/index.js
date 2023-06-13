@@ -2,6 +2,8 @@ const express=require("express");
 
 const cors=require("cors");
 const { connection } = require("./Configue/db");
+const { JobListingRouter } = require("./Routes/JobListing.route");
+const { JobPostingRouter } = require("./Routes/JobPosting.route");
 
 
 const app=express();
@@ -11,6 +13,9 @@ app.use(cors());
 app.get("/",(req,res)=>{
     res.send("hi welcome")
 })
+
+app.use("/listing",JobListingRouter);
+app.use("/posting",JobPostingRouter);
 
 
 

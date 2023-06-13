@@ -1,13 +1,19 @@
 const mongoose=require("mongoose")
 
-const userSchema=mongoose.Schema({
-    email:String,
-    password:String,
-    name:String
+const jobSchema=mongoose.Schema({
+    company: String,
+	postedAt: String,
+	city: String,
+	location: String,
+	role: String,
+	level: String,
+	contract: String,
+	position: String,
+	language: String
 })
 
-const UserModel=mongoose.model("user",userSchema)
+const JobModel=mongoose.model("job",jobSchema)
 
 module.exports={
-    UserModel
+    JobModel
 }
